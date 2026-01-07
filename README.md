@@ -77,4 +77,5 @@ The tool is available as a **free version**, intentionally scoped to keep it lig
 
 ### 🔄 Future Enhancements
 Additional semantic model properties will be added **based on feedback received from users**.  
+
 The goal is to evolve the tool incrementally while keeping it simple and easy to use.
